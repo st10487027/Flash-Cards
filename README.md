@@ -5,8 +5,8 @@
 - **Subject**: [IMAD5112]
 
 ## Links
-- **GitHub Repository**: [Repository URL]
-- **YouTube Video**: [YouTube Video Link]
+- **GitHub Repository**: [https://github.com/st10487027/Flash-Cards/tree/master]
+
 ```
 
 2. Project Overview
